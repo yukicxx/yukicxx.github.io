@@ -1,0 +1,45 @@
+body {
+	background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+.header {
+	font-size: 20px;
+	line-height: 1.5;
+	margin: 60px auto;
+}
+
+.section {
+	padding: 30px 0;
+}
+.header span {
+	display: block;
+}
+
+.form {
+	border: 5px solid #2071f8;
+	padding: 43px 20px;
+}
+
+.form-header, .section-header {
+	font-size: 20px;
+	font-weight: 900;
+}
+
+.form-input {
+	margin-bottom: 10px;
+}
+
+.form-btn {
+	margin-top: 10px;
+}
+
+.feature {
+	margin-top: 60px;
+}
+
+.feature p {
+	margin-top: 20px;
+}
+
+.video {
+	margin-bottom: 30px;
+}
